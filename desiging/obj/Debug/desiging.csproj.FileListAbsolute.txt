@@ -1,0 +1,66 @@
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\desiging.exe.config
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\desiging.exe
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\desiging.pdb
+C:\Users\Talha Shafique\Desktop\desiging\desiging\obj\Debug\desiging.csprojResolveAssemblyReference.cache
+C:\Users\Talha Shafique\Desktop\desiging\desiging\obj\Debug\desiging.Form1.resources
+C:\Users\Talha Shafique\Desktop\desiging\desiging\obj\Debug\desiging.Properties.Resources.resources
+C:\Users\Talha Shafique\Desktop\desiging\desiging\obj\Debug\desiging.csproj.GenerateResource.Cache
+C:\Users\Talha Shafique\Desktop\desiging\desiging\obj\Debug\desiging.exe
+C:\Users\Talha Shafique\Desktop\desiging\desiging\obj\Debug\desiging.pdb
+C:\Users\Talha Shafique\Desktop\Porjects\desiging\desiging\bin\Debug\desiging.exe.config
+C:\Users\Talha Shafique\Desktop\Porjects\desiging\desiging\obj\Debug\desiging.exe
+C:\Users\Talha Shafique\Desktop\Porjects\desiging\desiging\obj\Debug\desiging.pdb
+E:\FreeLancing\Porjects\desiging\desiging\bin\Debug\desiging.exe.config
+E:\FreeLancing\Porjects\desiging\desiging\bin\Debug\desiging.exe
+E:\FreeLancing\Porjects\desiging\desiging\bin\Debug\desiging.pdb
+E:\FreeLancing\Porjects\desiging\desiging\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\FreeLancing\Porjects\desiging\desiging\obj\Debug\desiging.csprojResolveAssemblyReference.cache
+E:\FreeLancing\Porjects\desiging\desiging\obj\Debug\desiging.Form1.resources
+E:\FreeLancing\Porjects\desiging\desiging\obj\Debug\desiging.Properties.Resources.resources
+E:\FreeLancing\Porjects\desiging\desiging\obj\Debug\desiging.csproj.GenerateResource.Cache
+E:\FreeLancing\Porjects\desiging\desiging\obj\Debug\desiging.csproj.CoreCompileInputs.cache
+E:\FreeLancing\Porjects\desiging\desiging\obj\Debug\desiging.exe
+E:\FreeLancing\Porjects\desiging\desiging\obj\Debug\desiging.pdb
+E:\FreeLancing\Porjects\desiging\desiging\obj\Debug\desiging.exe.config
+E:\FreeLancing\Porjects\desiging\desiging\bin\Debug\PcapDotNet.Analysis.dll
+E:\FreeLancing\Porjects\desiging\desiging\bin\Debug\PcapDotNet.Base.dll
+E:\FreeLancing\Porjects\desiging\desiging\bin\Debug\PcapDotNet.Core.dll
+E:\FreeLancing\Porjects\desiging\desiging\bin\Debug\PcapDotNet.Core.Extensions.dll
+E:\FreeLancing\Porjects\desiging\desiging\bin\Debug\PcapDotNet.Packets.dll
+E:\FreeLancing\Porjects\desiging\desiging\bin\Debug\PcapDotNet.Base.pdb
+E:\FreeLancing\Porjects\desiging\desiging\bin\Debug\PcapDotNet.Base.xml
+E:\FreeLancing\Porjects\desiging\desiging\bin\Debug\PcapDotNet.Core.pdb
+E:\FreeLancing\Porjects\desiging\desiging\bin\Debug\PcapDotNet.Core.xml
+E:\FreeLancing\Porjects\desiging\desiging\bin\Debug\PcapDotNet.Core.Extensions.pdb
+E:\FreeLancing\Porjects\desiging\desiging\bin\Debug\PcapDotNet.Core.Extensions.xml
+E:\FreeLancing\Porjects\desiging\desiging\bin\Debug\PcapDotNet.Packets.pdb
+E:\FreeLancing\Porjects\desiging\desiging\bin\Debug\PcapDotNet.Packets.xml
+C:\Users\Talha Shafique\Desktop\desiging\desiging\obj\Debug\desiging.exe.config
+C:\Users\Talha Shafique\Desktop\desiging\desiging\obj\Debug\desiging.Form2.resources
+C:\Users\Talha Shafique\Desktop\desiging\desiging\obj\Debug\desiging.csproj.CoreCompileInputs.cache
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\BCMakeCert.dll
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\CefSharp.Core.dll
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\CefSharp.dll
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\CefSharp.WinForms.dll
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\CertMaker.dll
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\FiddlerCore4.dll
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\PcapDotNet.Analysis.dll
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\PcapDotNet.Base.dll
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\PcapDotNet.Core.dll
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\PcapDotNet.Core.Extensions.dll
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\PcapDotNet.Packets.dll
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\CefSharp.xml
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\CefSharp.Core.xml
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\CefSharp.WinForms.xml
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\FiddlerCore4.pdb
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\FiddlerCore4.xml
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\PcapDotNet.Base.pdb
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\PcapDotNet.Base.xml
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\PcapDotNet.Core.pdb
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\PcapDotNet.Core.xml
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\PcapDotNet.Core.Extensions.pdb
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\PcapDotNet.Core.Extensions.xml
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\PcapDotNet.Packets.pdb
+C:\Users\Talha Shafique\Desktop\desiging\desiging\bin\Debug\PcapDotNet.Packets.xml

@@ -1,0 +1,134 @@
+[0424/152919:FATAL:hwnd_util.cc(65)] : The parameter is incorrect. (0x57)
+[0424/153023:FATAL:hwnd_util.cc(65)] : The parameter is incorrect. (0x57)
+[0426/121645:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/121650:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/121655:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/122113:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0426/122346:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0426/122741:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0426/122759:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0426/123819:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0426/124103:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0426/124512:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0426/124550:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0426/125432:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0426/125443:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0426/125457:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0426/125521:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0426/125532:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0426/125810:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0426/130045:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0426/130056:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0426/130107:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0426/131957:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0426/132151:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0426/134232:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134237:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134339:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134344:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134446:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134451:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134454:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134456:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134459:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134501:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134504:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134506:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134509:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134511:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134514:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134516:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134519:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134521:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134524:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134526:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134529:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134531:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134534:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134536:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134539:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134541:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134544:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134546:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134549:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134551:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134554:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134556:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134559:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134601:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134604:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134606:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134609:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134611:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134614:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134616:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134619:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134621:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134624:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134625:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134625:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134625:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134626:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134626:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134629:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134630:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134630:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134630:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134631:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134631:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134631:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/134631:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/135445:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/135450:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/135455:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0426/203745:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0426/203802:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0427/103854:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0427/103910:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0427/125556:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0427/142516:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0427/142521:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0427/142526:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0427/142657:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0427/142659:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0427/142702:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0427/142707:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0427/142708:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0427/142712:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0427/142717:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0427/142722:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0427/142727:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0427/142732:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0427/142737:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0427/142742:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0427/142747:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0427/142748:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0427/142752:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0427/142757:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0427/145729:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0427/150719:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0427/150855:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0427/163055:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0507/003831:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0508/122017:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0508/125456:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0508/125804:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0508/130041:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0508/130914:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0508/132306:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0508/135235:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0509/125518:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0509/130133:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0509/130319:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0509/130352:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0509/130514:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0509/130611:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0509/130742:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0509/210358:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0509/211055:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0509/211258:FATAL:hwnd_util.cc(65)] : The parameter is incorrect. (0x57)
+[0509/211339:FATAL:hwnd_util.cc(65)] : The parameter is incorrect. (0x57)
+[0509/211816:FATAL:hwnd_util.cc(65)] : The parameter is incorrect. (0x57)
+[0509/211933:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0509/214140:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0509/214142:ERROR:ipc_channel_win.cc(217)] pipe error: 109
